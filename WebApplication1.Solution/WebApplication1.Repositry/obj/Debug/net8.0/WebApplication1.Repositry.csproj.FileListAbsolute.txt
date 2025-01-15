@@ -1,0 +1,60 @@
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.deps.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.AssemblyReference.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfoInputs.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfo.cs
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.CoreCompileInputs.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebAppli.EDC95323.Up2Date
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\refint\WebApplication1.Repositry.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\ref\WebApplication1.Repositry.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\refint\WebApplication1.Repositry.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.deps.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.AssemblyReference.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfoInputs.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfo.cs
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.CoreCompileInputs.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebAppli.EDC95323.Up2Date
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\ref\WebApplication1.Repositry.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.deps.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.AssemblyReference.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfoInputs.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfo.cs
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.CoreCompileInputs.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebAppli.EDC95323.Up2Date
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\refint\WebApplication1.Repositry.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\ref\WebApplication1.Repositry.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.deps.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\bin\Debug\net8.0\WebApplication1.Core.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.AssemblyReference.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfoInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.AssemblyInfo.cs
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.csproj.CoreCompileInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebAppli.EDC95323.Up2Date
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\refint\WebApplication1.Repositry.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\WebApplication1.Repositry.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Repositry\obj\Debug\net8.0\ref\WebApplication1.Repositry.dll

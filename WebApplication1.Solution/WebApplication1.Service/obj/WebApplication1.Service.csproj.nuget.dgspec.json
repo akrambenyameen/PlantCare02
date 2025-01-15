@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Service\\WebApplication1.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj",
+        "projectName": "WebApplication1.Core",
+        "projectPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj",
+        "packagesPath": "C:\\Users\\akram\\.nuget\\packages\\",
+        "outputPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Repositry\\WebApplication1.Repositry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Repositry\\WebApplication1.Repositry.csproj",
+        "projectName": "WebApplication1.Repositry",
+        "projectPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Repositry\\WebApplication1.Repositry.csproj",
+        "packagesPath": "C:\\Users\\akram\\.nuget\\packages\\",
+        "outputPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Repositry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj": {
+                "projectPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Service\\WebApplication1.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Service\\WebApplication1.Service.csproj",
+        "projectName": "WebApplication1.Service",
+        "projectPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Service\\WebApplication1.Service.csproj",
+        "packagesPath": "C:\\Users\\akram\\.nuget\\packages\\",
+        "outputPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj": {
+                "projectPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Core\\WebApplication1.Core.csproj"
+              },
+              "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Repositry\\WebApplication1.Repositry.csproj": {
+                "projectPath": "D:\\CS\\Final Project\\PlantCareBack\\BackOffA7\\WebApplication1.Solution\\WebApplication1.Repositry\\WebApplication1.Repositry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.26.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

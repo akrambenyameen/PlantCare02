@@ -1,0 +1,17 @@
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Service.deps.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Service.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Service.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Repositry.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Core.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\bin\Release\net8.0\WebApplication1.Repositry.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.csproj.AssemblyReference.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.AssemblyInfoInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.AssemblyInfo.cs
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.csproj.CoreCompileInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebAppli.04DA624C.Up2Date
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\refint\WebApplication1.Service.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\WebApplication1.Service.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Service\obj\Release\net8.0\ref\WebApplication1.Service.dll

@@ -1,0 +1,292 @@
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.exe
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.deps.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.runtimeconfig.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.AssemblyReference.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfoInputs.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfo.cs
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.CoreCompileInputs.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.Api.props
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.Api.props
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.Api.props
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.Api.styles.css
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebAppli.BF9FAD1A.Up2Date
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.Api.dll
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.pdb
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.genruntimeconfig.cache
+C:\Users\akram\Desktop\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.Api.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.Api.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.exe
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.deps.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.runtimeconfig.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.pdb
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.AssemblyReference.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfoInputs.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfo.cs
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.CoreCompileInputs.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.Api.props
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.Api.props
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.Api.props
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.Api.styles.css
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebAppli.BF9FAD1A.Up2Date
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.genruntimeconfig.cache
+C:\Users\minam\Downloads\Paula\Backend\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.Api.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.exe
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.deps.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.runtimeconfig.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.AssemblyReference.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfoInputs.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfo.cs
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.CoreCompileInputs.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.Api.props
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.Api.props
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.Api.props
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.Api.styles.css
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebAppli.BF9FAD1A.Up2Date
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.Api.dll
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.pdb
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.genruntimeconfig.cache
+C:\Users\paula girgis\Downloads\BackOffA7\BackOffA7\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.Api.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.exe
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.deps.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.runtimeconfig.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Api.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Repositry.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Core.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.AssemblyReference.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfoInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.AssemblyInfo.cs
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.csproj.CoreCompileInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.Api.props
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.Api.props
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.Api.props
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.Api.styles.css
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebAppli.BF9FAD1A.Up2Date
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.Api.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\WebApplication1.Api.genruntimeconfig.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.Api.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Service.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\WebApplication1.Service.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\OpenAI_API.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Private.Windows.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Web.Razor.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll

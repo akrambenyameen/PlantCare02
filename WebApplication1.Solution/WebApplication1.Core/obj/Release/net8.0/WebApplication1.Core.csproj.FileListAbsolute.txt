@@ -1,0 +1,12 @@
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\bin\Release\net8.0\WebApplication1.Core.deps.json
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\bin\Release\net8.0\WebApplication1.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\bin\Release\net8.0\WebApplication1.Core.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.csproj.AssemblyReference.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.AssemblyInfoInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.AssemblyInfo.cs
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.csproj.CoreCompileInputs.cache
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\refint\WebApplication1.Core.dll
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\WebApplication1.Core.pdb
+D:\CS\Final Project\PlantCareBack\BackOffA7\WebApplication1.Solution\WebApplication1.Core\obj\Release\net8.0\ref\WebApplication1.Core.dll
